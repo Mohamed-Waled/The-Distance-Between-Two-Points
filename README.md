@@ -1,6 +1,6 @@
 # Training Projects - The Distance Between Two Points App - V 1.0
 
-This is an app To Calculat The Distance Between Two Points In The (X, Y) Format
+This is an app To Calculate The Distance Between Two Points In The (X, Y) Format
 
 ## Table of contents
 
@@ -9,6 +9,7 @@ This is an app To Calculat The Distance Between Two Points In The (X, Y) Format
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [Updates & Versions](#updates--versions)
 - [Author](#author)
 
 ## Overview
@@ -30,8 +31,8 @@ This is an app To Calculat The Distance Between Two Points In The (X, Y) Format
 - CSS custom properties
 - JavaScript
 
-## Updates
-- V 2.0: [Live site URL here]()
+## Updates & Versions
+- V 2.0 : [Live site URL here](https://mohamed-waled.github.io/Distance-Calculator-Between-Two-Points-V-2.0/)
 
 ## Author
 
