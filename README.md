@@ -1,18 +1,38 @@
-# The Distance Between Two Points
-An App To Calculat The Distance Between Two Points In The (X, Y) Format
+# Training Projects - The Distance Between Two Points App - V 1.0
 
-## The Languages And Apps Used
-HTML
-Css
-Java Script
-Useing Visual Studio Code
+This is an app To Calculat The Distance Between Two Points In The (X, Y) Format
 
-## Project Files
-index.html File Contains 58 Lines
-CSS Folder Contains style.css File Contains 45 Lines
-JS Folder Contains app.js contains 20 Lines
-README.md File Contains Information About The Project Contains 18 Lines
+## Table of contents
 
-## What The App Contains :
-4 Containers to Input 4 numbers X1 , Y1 , X2 , Y2 
-A Button When You Click It The App Calculat The Distance Between Two Points and Make Them Appear In The Container Under The Button .
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+## Overview
+
+### Screenshot
+
+![](https://raw.githubusercontent.com/Mohamed-Waled/The-Distance-Between-Two-Points-V-1.0/main/Images/Screenshot%202022-03-11%20at%2020-35-53%20The%20Distance%20Between%20Two%20Points.png)
+![](https://raw.githubusercontent.com/Mohamed-Waled/The-Distance-Between-Two-Points-V-1.0/main/Images/Screenshot%202022-03-11%20at%2020-36-20%20The%20Distance%20Between%20Two%20Points.png)
+
+### Links
+
+- Live Site URL: [Live site URL here](https://mohamed-waled.github.io/The-Distance-Between-Two-Points-V-1.0/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- JavaScript
+
+## Updates
+- V 2.0: [Live site URL here]()
+
+## Author
+
+- Linkedin - [@mohamed-waled](https://www.linkedin.com/in/mohamed-waled-82a51a1bb/)
